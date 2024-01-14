@@ -13,10 +13,10 @@ What things you need to install the software,
 ```
 1. JDK 11 (Please check the JDK version compatible with spark version)
 2. Python 3.12.1 or latest
-3. spark 3.5.0 or latest
+3. Spark 3.5.0 or latest
 4. winutils master (check which version is compatible with spark and create a ENV variable accordingly, for e.g with spark 3.5.0, hadoop 3.3.5 works)
 5. PyCharm or your favourite IDE
-6. pyspark package
+6. Pyspark package
 ```
 
 ### Project Structure
