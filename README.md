@@ -20,9 +20,9 @@ What things you need to install the software,
 ```
 
 ### Project Structure
-1. Conf -> Variables.py (It has all the configurations parameters) </br>
-2. Data -> Cars Sales data csv file used in this project) </br>
-3. Lib  -> It has two main things, </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Tasks Folder -> It has all the functions executed </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. utils.py -> Utility functions like, Create a spark Session, Read Dataframe, Write DataFrame is stored here </br>
+1. Conf -> It has all the configurations parameters </br>
+2. Data -> Cars Sales data csv file used in this project </br>
+3. Lib &nbsp;&nbsp; -> It has two main things, </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Tasks Folder -> It has all the functions implemented </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. utils.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Utility functions like, Create a spark Session, Read Dataframe, Write DataFrame is stored here </br>
 5. main.py (An entrypoint to all the functionalities within the project)
