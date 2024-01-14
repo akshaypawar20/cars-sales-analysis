@@ -6,7 +6,7 @@ Car Sales Analysis using PySpark -> An Exploratory Data Analysis Project for the
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please note that this is for Windows Machine for Mac/Linux users. The prerequisites would be similar with some differences, so check that out.
 
-### Prerequisites
+### Pre-Requisites
 
 What things you need to install the software,
 
